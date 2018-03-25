@@ -1,0 +1,13 @@
+{
+    "name":"John",
+    "age":30,
+    "wife": null,
+    "hasAccount": true,
+    "isOnline": false,
+    "doneRatio": 0.2321912,
+    "cars": {
+        "car1":"Ford",
+        "car2":"BMW",
+        "car3":"Fiat"
+    }
+ }

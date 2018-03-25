@@ -1,0 +1,45 @@
+{
+    "_id": "5ab7de04832029b1c84f492c",
+    "index": 0,
+    "guid": "1e9bde38-6245-4d58-bfee-12e53506ff52",
+    "isActive": false,
+    "balance": "$2,791.12",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "brown",
+    "name": "Helene Carver",
+    "gender": "female",
+    "company": "XYMONK",
+    "email": "helenecarver@xymonk.com",
+    "phone": "+1 (940) 444-2117",
+    "address": "346 Winthrop Street, Warren, Connecticut, 745",
+    "about": "Eiusmod pariatur ex non incididunt aliquip duis ea nisi deserunt. Cupidatat reprehenderit sunt in quis aliquip aliqua consectetur laboris dolore mollit. Ex culpa amet laboris ullamco minim aute. Enim do in ullamco eiusmod consectetur sunt cillum.\r\n",
+    "registered": "2016-09-03T05:17:34 -02:00",
+    "latitude": -48.066543,
+    "longitude": -57.643343,
+    "tags": [
+        "amet",
+        "non",
+        "Lorem",
+        "tempor",
+        "dolore",
+        "cupidatat",
+        "duis"
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Adams Castillo"
+        },
+        {
+            "id": 1,
+            "name": "Mayra Bates"
+        },
+        {
+            "id": 2,
+            "name": "Young Booth"
+        }
+    ],
+    "greeting": "Hello, Helene Carver! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+}
